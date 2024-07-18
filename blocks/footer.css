@@ -6,7 +6,7 @@
     margin: 92px 48px 0;
   }
   
-  .footer_wrapper-image-and-infos {
+  .footer__wrapper-image-and-infos {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@
     margin-bottom: 92px;
   }
   
-  .footer_wrapper-image-and-infos:hover {
+  .footer__wrapper-image-and-infos:hover {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
       url("../images/footer-image.jpg");
   }
@@ -96,7 +96,6 @@
     }
   
     .footer__paragraph {
-      margin: 0;
       font-size: 14px;
       line-height: 16px;
     }
